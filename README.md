@@ -1,5 +1,5 @@
 ### Delete Cloudflare DNS Records
-A Node.js script to delete all DNS records on a Cloudflare zone.
+A Node.js script to delete a big chunk of DNS records on a Cloudflare zone.
 
 ## Requirements
 - Node.js
