@@ -12,10 +12,10 @@ Run npm install to install the required dependencies.
 Open deletedev.js in a text editor.
 
 Replace the following values with your own:
-- zoneId: The ID of the Cloudflare zone you want to delete records from
-- domainName: The domain name of the zone
-- apiKey: Your Cloudflare API key
-- email: The email address associated with your Cloudflare account
+- `zoneId:` The ID of the Cloudflare zone you want to delete records from
+- `domainName:` The domain name of the zone
+- `apiKey:` Your Cloudflare API key
+- `email:` The email address associated with your Cloudflare account
 
 Save and close the file.
 
