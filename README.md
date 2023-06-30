@@ -25,7 +25,7 @@ Run the script by executing node ./index.js in the terminal
 The script will automatically delete a big bulk of DNS records on the specified Cloudflare zone. You will see a message in the console indicating whether the records were deleted successfully or if an error occurred.
 
 ### ***Note: Be cautious when using this script as deleted DNS records cannot be recovered.***
-### ***Note: This script has a minor flaw where it can at best delete 250 records at a time due to cloudflares API ***
+### ***Note: This script has a minor flaw where it can at best delete 250 records at a time due to cloudflares API.***
 
 # License
 This project is open source and licensed under the MIT License.
